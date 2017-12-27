@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\Kang\Documents\GitHub\AndroidEX2\AndroidEX.iml" filepath="C:\Users\Kang\Documents\GitHub\AndroidEX2\AndroidEX.iml" />
+      <module fileurl="file://C:/Users/Kang/Documents/GitHub/AndroidEX2/AndroidEX.iml" filepath="C:/Users/Kang/Documents/GitHub/AndroidEX2/AndroidEX.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidEX2.iml" filepath="$PROJECT_DIR$/AndroidEX2.iml" />
-      <module fileurl="file://C:\Users\Kang\Documents\GitHub\AndroidEX2\AndroidEX2.iml" filepath="C:\Users\Kang\Documents\GitHub\AndroidEX2\AndroidEX2.iml" />
-      <module fileurl="file://C:\Users\Kang\Documents\GitHub\AndroidEX2\app\app.iml" filepath="C:\Users\Kang\Documents\GitHub\AndroidEX2\app\app.iml" />
+      <module fileurl="file://C:/Users/Kang/Documents/GitHub/AndroidEX2/AndroidEX2.iml" filepath="C:/Users/Kang/Documents/GitHub/AndroidEX2/AndroidEX2.iml" />
+      <module fileurl="file://C:/Users/Kang/Documents/GitHub/AndroidEX2/app/app.iml" filepath="C:/Users/Kang/Documents/GitHub/AndroidEX2/app/app.iml" />
     </modules>
   </component>
 </project>
